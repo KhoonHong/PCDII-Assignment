@@ -1,0 +1,10 @@
+1|0123456789|012345678|tarc|choo han|test1@live.com|12312133|bayan lepas|penang|malaysia|11, lrg mati|77777|01234567
+2|0123454444|012345444|tarc 54.0|shi jing|test3@live.com|5641651|bayan baru|kedah|malaysia|12, lrg sampat|74411|01234567
+3|0123456789|012345678|tarcchim|kean chew|test2@live.com|12312133|bayan lepas|penang|malaysia|12, lrg mati|77777|01234567
+4|0123454444|012345444|tarc 44.0|shi jing|test4@live.com|5641651|bayan baru|kedah|malaysia|13, lrg sampat|74411|01234567
+5|0123456789|012345678|tarc|choo han|test9@live.com|12312133|bayan lepas|penang|malaysia|19, lrg mati|77777|01234567
+6|0123454444|012345444|tarc 24.0|shi jing|test8@live.com|5641651|bayan baru|kedah|malaysia|18, lrg sampat|74411|01234567
+7|0123456789|012345678|tarc|constance|test7@live.com|12312133|bayan lepas|penang|malaysia|15, lrg mati|77777|01234567
+8|0123454444|012345444|tarc 16.0|shi jing|test6@live.com|5641651|bayan baru|kedah|malaysia|17, lrg sampat|74411|01234567
+9|0123456789|012345678|tarc 3.2|constance|test5@live.com|12312133|bayan lepas|penang|malaysia|15, lrg mati|77777|01234567
+10|0123454444|012345444|tarc 15.0|shi jing|test10@live.com|5641651|bayan baru|kedah|malaysia|17, lrg sampat|74411|01234567
